@@ -2,8 +2,8 @@
 #!desc=Talkatone 去广告规则集
 # 本规则集的目的是去除 Talkatone APP 内的部分第三方广告
 # 整理作者：CharyWind
-# 仓库地址：
-# 反馈渠道：
+# 仓库地址：https://github.com/zlbzhf/Rules
+# 更新时间：2024年11月18日
 # 类型选择：RULE-SET
 # 策略建议：REJECT
 
