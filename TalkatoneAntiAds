@@ -1,0 +1,19 @@
+#!name=Talkatone
+#!desc=Talkatone 去广告规则集
+# 本规则集的目的是去除 Talkatone APP 内的部分第三方广告
+# 整理作者：CharyWind
+# 仓库地址：
+# 反馈渠道：
+# 类型选择：RULE-SET
+# 策略建议：REJECT
+
+DOMAIN-SUFFIX,ads.inmobi.com
+DOMAIN-SUFFIX,adsappier.com
+DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,appiersig.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,tappx.com
